@@ -6,13 +6,13 @@
 #include <ThingSpeak.h>
 #include <base64.h>
 
-const char* ssid = "Kush";
-const char* password = "07070707";
+const char* ssid = "SSID";
+const char* password = "Password";
 
-const char* account_sid = "ACa529b26160febd214ed3857f921fd351";
-const char* auth_token = "fe809a0d2dea2e25e90fe24200afbbba";
-String from_number = "+12563805722"; // Your Twilio phone number
-String to_number = "+917862913448"; // Receiver's phone number
+const char* account_sid = "Account SID";
+const char* auth_token = "Auth Token";
+String from_number = ""; // Your Twilio phone number
+String to_number = ""; // Receiver's phone number
 
 // Twilio server fingerprint
 const char fingerprint[] = "80:58:F5:0B:A9:DF:A0:B8:49:5B:87:7C:82:47:75:04:FB:D2:9D:FD ";
