@@ -3,36 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>IoT Project - Accident Detection and Alert System</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 20px;
-      color: #333;
-      line-height: 1.6;
-    }
-    h1, h2, h3 {
-      color: #007bff;
-    }
-    p, ol {
-      color: #666;
-    }
-    code {
-      background-color: #f8f9fa;
-      padding: 2px 5px;
-      border-radius: 4px;
-      font-family: Consolas, monospace;
-    }
-    pre {
-      background-color: #f8f9fa;
-      padding: 10px;
-      border-radius: 4px;
-      overflow-x: auto;
-      margin: 10px 0;
-    }
-  </style>
-</head>
+
 <body>
   <h1>IoT Project - Accident Detection and Alert System</h1>
 
