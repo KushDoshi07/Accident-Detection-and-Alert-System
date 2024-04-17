@@ -15,7 +15,7 @@ String from_number = ""; // Your Twilio phone number
 String to_number = ""; // Receiver's phone number
 
 // Twilio server fingerprint
-const char fingerprint[] = "80:58:F5:0B:A9:DF:A0:B8:49:5B:87:7C:82:47:75:04:FB:D2:9D:FD ";
+const char fingerprint[] = "";
 
 Adafruit_MPU6050 mpu;
 
@@ -24,8 +24,8 @@ const int vibrationThreshold = 800; // Adjust the vibration threshold value as n
 const float rotationThreshold = -0.5; // Adjust the rotation threshold value as needed
 const int gasSensorPin = A0;
 
-unsigned long channelID = 2490287;
-const char *writeAPIKey = "XG7GBU3GZ5AEA57Y";
+unsigned long channelID = "Channel ID";
+const char *writeAPIKey = "API KEY";
 
 WiFiClient client;
 
